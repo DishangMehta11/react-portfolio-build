@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.1cb1ca92.js",
+    "static/media/HeroImage.jpg": "/static/media/HeroImage.7122710db3cf91ab2b74.jpg",
+    "static/media/TCSCerti.jpg": "/static/media/TCSCerti.ab0ebb0b3fdb672d8b7e.jpg",
+    "static/media/PortfolioScreenshot.png": "/static/media/PortfolioScreenshot.70c97369f117a664e408.png",
+    "static/media/RJJ-Logo.png": "/static/media/RJJ-Logo.fd62538b2d62eb4449c3.png",
+    "static/media/SXCALogo.png": "/static/media/SXCALogo.c8bf8b5b6a0781db1462.png",
+    "static/media/TCS-removebg-preview.png": "/static/media/TCS-removebg-preview.317e05ef01f01b5b34b6.png",
+    "static/media/mongodb.svg": "/static/media/mongodb.37c254895b58a4072247e428fc867bbe.svg",
+    "static/media/node.svg": "/static/media/node.eb1782065433a86af89afba277332873.svg",
+    "static/media/docker.svg": "/static/media/docker.fcfc19cca40e18dde628b0ae8ddc6b26.svg",
+    "static/media/mysql.svg": "/static/media/mysql.de1f441d77fea35c2d6e1338f3cc540a.svg",
+    "static/media/python.svg": "/static/media/python.34ed02aa0d1dcb192508fbe1868770b9.svg",
+    "index.html": "/index.html",
+    "static/media/react.svg": "/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.1cb1ca92.js.map": "/static/js/main.1cb1ca92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1cb1ca92.js"
+  ]
+}
